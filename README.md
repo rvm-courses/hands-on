@@ -7,3 +7,5 @@ Hands on project 2018
 Ceci est du **gras**.
 
 Je fais une petite modification.
+
+Je fais une autre modification.
